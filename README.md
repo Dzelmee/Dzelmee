@@ -1,6 +1,5 @@
 Olá sou o Jonas Dzelme! 🐱‍👤
 
-- 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando JavaScript e Css
 - 👨‍💻 Cursando Análise e desenvolvimento de sistemas ( Estácio ) 
 - 📫 Contato: JonasDzelme@gmail.com

@@ -1,6 +1,6 @@
 Olá sou o Jonas Dzelme! 🐱‍👤
 
-- 🌱 Estudando JavaScript e Css
+- 🌱 Estudando html, css, javascript e bootstrap
 - 👨‍💻 Cursando Análise e desenvolvimento de sistemas ( Estácio ) 
 - 📫 Contato: JonasDzelme@gmail.com
 - 😄 Pronouns: Ele/Dele

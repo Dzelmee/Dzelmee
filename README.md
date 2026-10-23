@@ -1,9 +1,23 @@
-Olá sou o Jonas Dzelme! 🐱‍👤
+Hi, I'm Jonas Dzelme 👋
+Junior Developer | Front-end • Back-end • Web Development
 
-- 🌱 Estudando html, css, javascript e bootstrap
-- 👨‍💻 Cursando Análise e desenvolvimento de sistemas ( Estácio ) 
-- 📫 Contato: JonasDzelme@gmail.com
-- 😄 Pronouns: Ele/Dele
+Building real-world applications and continuously improving my software engineering skills.
+
+- React
+
+- TypeScript
+
+- JavaScript
+
+- Node.js
+
+- HTML & CSS
+
+- Git
+
+-  Contato: JonasDzelme@gmail.com
+
+-  Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

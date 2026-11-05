@@ -1,41 +1,72 @@
-Hi, I'm Jonas Dzelme 👋
-Junior Developer | Front-end • Back-end • Web Development
+<div align="center">
 
-Building real-world applications and continuously improving my software engineering skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:172554,100:6d28d9&text=JONAS%20DZELME&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20real-world%20solutions&descAlignY=59&animation=fadeIn" width="100%" alt="Jonas Dzelme banner" />
 
-- React
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=9D8CFF&center=true&vCenter=true&width=720&lines=Hello%2C+world!+I'm+Jonas+%F0%9F%91%8B;Front-end+%2B+Back-end+%2B+Problem+Solving;Turning+ideas+into+functional+products;Always+learning.+Always+building." alt="Animated typing introduction" /></a>
 
-- TypeScript
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-dzelme-393a82267/)
+[![Email](https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonasDzelme@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee)
 
-- JavaScript
-
-- Node.js
-
-- HTML & CSS
-
-- Git
-
--  Contato: JonasDzelme@gmail.com
-
--  Pronouns: Ele/Dele
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## `> whoami`
 
-<div> 
-  <a href="https://www.instagram.com/j_dzelme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jonasdzelme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonas-dzelme-393a82267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I build responsive interfaces, connect applications to APIs, and work with back-end services and databases.
+
+My focus is on creating useful, maintainable software while strengthening my skills through hands-on projects. I'm currently looking for **internship and junior opportunities** in software development, QA, and technical support.
+
+- 🔭 **Building:** Full-stack applications with React, TypeScript, Node.js and PostgreSQL.
+- 🧠 **Learning:** Software architecture, testing, API design and DevOps fundamentals.
+- 🛠️ **Approach:** Build, test, debug, improve, document.
+- 🌍 **Location:** Rio de Janeiro, Brazil.
+
+## `> tech --stack`
+
+<div align="center">
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass&theme=dark" alt="Frontend technologies" />
+
+**Back-end & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark" alt="Backend and database technologies" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" alt="Development tools" />
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzelmee/Dzelmee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzelmee/Dzelmee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dzelmee/Dzelmee/output/github-contribution-grid-snake.svg">
-</picture>
+## `> ls ./featured-projects`
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[StageManager](https://github.com/Dzelmee?tab=repositories&q=StageManager)** | Band management platform for shows, setlists, repertoire and production workflows. | React · TypeScript · Node.js · Prisma · PostgreSQL |
+| **[Suporte Central](https://github.com/Dzelmee?tab=repositories&q=suporte-central)** | Technical support project focused on service workflows and usability. | See repository |
+| **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | Personal finance project with a product-oriented interface. | See repository |
+| **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | Responsive web project for a fitness-oriented experience. | HTML · CSS · JavaScript |
+
+> Explore the repositories for source code, implementation details and live demos when available.
+
+## `> git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dzelmee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&include_all_commits=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzelmee&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Dzelmee&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+
+</div>
+
+## `> connect --with-me`
+
+I'm open to connecting with developers, exchanging ideas, collaborating on projects and exploring new opportunities.
+
+**Let's build something meaningful.** Reach me through [LinkedIn](https://www.linkedin.com/in/jonas-dzelme-393a82267/) or [email](mailto:JonasDzelme@gmail.com).
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:09090f,45:172554,100:6d28d9" width="100%" alt="Footer wave" />
+</div>

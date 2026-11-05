@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=9D8CFF&center=true&vCenter=true&width=720&lines=Hello%2C+world!+I'm+Jonas+%F0%9F%91%8B;Front-end+%2B+Back-end+%2B+Problem+Solving;Turning+ideas+into+functional+products;Always+learning.+Always+building." alt="Animated typing introduction" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-dzelme-393a82267/)
-[![Email](https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonasDzelme@gmail.com)
+[![Email](https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonasDzelme@gmail.com?subject=Hello%20Jonas%20-%20GitHub%20contact)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee)
 
 </div>
@@ -50,22 +50,24 @@ My focus is on creating useful, maintainable software while strengthening my ski
 
 > Explore the repositories for source code, implementation details and live demos when available.
 
-## `> git stats`
+## `> git activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dzelmee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&include_all_commits=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzelmee&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170" alt="Most used languages" />
+[![View my GitHub contributions](https://img.shields.io/badge/View_my_contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=overview)
+[![Explore my repositories](https://img.shields.io/badge/Explore_18_repositories-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories)
 
 <img src="https://streak-stats.demolab.com?user=Dzelmee&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
+> My GitHub contribution calendar is available on my [profile overview](https://github.com/Dzelmee). The native GitHub calendar is the most reliable source for activity.
+
 ## `> connect --with-me`
 
 I'm open to connecting with developers, exchanging ideas, collaborating on projects and exploring new opportunities.
 
-**Let's build something meaningful.** Reach me through [LinkedIn](https://www.linkedin.com/in/jonas-dzelme-393a82267/) or [email](mailto:JonasDzelme@gmail.com).
+**Let's build something meaningful.** Reach me through [LinkedIn](https://www.linkedin.com/in/jonas-dzelme-393a82267/) or **[send me an email](mailto:JonasDzelme@gmail.com?subject=Hello%20Jonas%20-%20GitHub%20contact)**. If your browser does not open an email app, write directly to **JonasDzelme@gmail.com**.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:09090f,45:172554,100:6d28d9" width="100%" alt="Footer wave" />

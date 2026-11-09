@@ -50,18 +50,20 @@ My focus is on creating useful, maintainable software while strengthening my ski
 
 > Explore the repositories for source code, implementation details and live demos when available.
 
-## `> git activity`
+## `> code --pulse`
 
 <div align="center">
 
-[![View my GitHub contributions](https://img.shields.io/badge/View_my_contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=overview)
-[![Explore my repositories](https://img.shields.io/badge/Explore_18_repositories-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories)
+[![Jonas Dzelme — Code Pulse animated banner](assets/code-pulse.svg)](https://portfolio-jonas-dzelme.vercel.app/)
 
-<img src="https://streak-stats.demolab.com?user=Dzelmee&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
+**Building interfaces. Connecting systems. Turning ideas into real projects.**
+
+[![ENTER PORTFOLIO](https://img.shields.io/badge/ENTER_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jonas-dzelme.vercel.app/)
+[![EXPLORE PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories)
+[![CLIENTFLOW CRM](https://img.shields.io/badge/CLIENTFLOW_CRM-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee/ClientFlow-CRM)
+[![STAGEMANAGER](https://img.shields.io/badge/STAGEMANAGER-4338CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories&q=StageManager)
 
 </div>
-
-> My GitHub contribution calendar is available on my [profile overview](https://github.com/Dzelmee). The native GitHub calendar is the most reliable source for activity.
 
 ## `> connect --with-me`
 

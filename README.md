@@ -54,7 +54,7 @@ My focus is on creating useful, maintainable software while strengthening my ski
 
 <div align="center">
 
-[![Jonas Dzelme — Code Pulse banner](assets/code-pulse.svg)](https://portfolio-jonas-dzelme.vercel.app/)
+[![Jonas Dzelme — Code Pulse animado](code-pulse-animated-60fps.gif)](https://portfolio-jonas-dzelme.vercel.app/)
 
 [![Animated Code Pulse status](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1600&pause=450&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%E2%97%8F+CODE+PULSE+%2F%2F+SYSTEM+ONLINE;%E2%9A%A1+BUILDING+REAL-WORLD+SOLUTIONS;%3E+REACT+%7C+TYPESCRIPT+%7C+NODE.JS;%3E+EXPLORE+MY+PORTFOLIO+%E2%86%92)](https://portfolio-jonas-dzelme.vercel.app/)
 

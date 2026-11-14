@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center"><img src="./assets/duelist-profile.svg" width="100%" alt="Duelist profile card — Jonas Dzelme" /></div>
+
 ### ✦ PLAYER PROFILE `01 / ABOUT ME`
 
 I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I enjoy turning ideas into interfaces and applications that people can actually use — from responsive front-ends to APIs and database integrations.
@@ -21,6 +23,8 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 > My approach is simple: understand the problem, build something useful, test it, and keep improving.
 
 ### ⚔ EQUIPPED SKILLS `02 / TECH STACK`
+
+> **DECK CONFIGURATION** — The tools I use to build interfaces, connect services and work with data.
 
 <div align="center">
 
@@ -49,13 +53,14 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 | **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | A personal finance interface with a product-oriented layout. | Web development |
 | **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | A responsive fitness-oriented website. | HTML · CSS · JavaScript |
 
-### ◈ CODE PULSE `04 / CURRENT ACTIVITY`
+### ◈ CODE SANCTUARY `04 / DEVELOPMENT CYCLE`
 
 <div align="center">
 
-[![My animated Code Pulse](code-pulse-premium-60fps.gif)](https://portfolio-jonas-dzelme.vercel.app/)
+[![Code Sanctuary — The Developer's Deck](./assets/code-sanctuary.svg)](https://portfolio-jonas-dzelme.vercel.app/)
 
-**BUILD · TEST · DEBUG · IMPROVE**
+**BUILD · TEST · DEBUG · IMPROVE**  
+*Each project is another card in the deck.*
 
 [![EXPLORE MY PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-10142F?style=for-the-badge&logo=github&logoColor=E5C47E)](https://github.com/Dzelmee?tab=repositories)
 [![PLAY FORBIDDEN DUEL](https://img.shields.io/badge/PLAY_FORBIDDEN_DUEL-10142F?style=for-the-badge&logo=vercel&logoColor=E5C47E)](https://portfolio-jonas-dzelme.vercel.app/)

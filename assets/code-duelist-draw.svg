@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080c1b"/><stop offset=".55" stop-color="#18112c"/><stop offset="1" stop-color="#090b18"/></linearGradient>
+<linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff0bc"/><stop offset=".52" stop-color="#d3a45a"/><stop offset="1" stop-color="#94612c"/></linearGradient>
+<linearGradient id="card" x2="0" y2="1"><stop stop-color="#3b2444"/><stop offset=".5" stop-color="#24152d"/><stop offset="1" stop-color="#121126"/></linearGradient>
+<pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="15" cy="15" r="1" fill="#cba05c" opacity=".11"/></pattern>
+<style>
+@keyframes drawA{0%,8%{transform:translate(190px,100px) rotate(0deg);opacity:0}22%,78%{transform:translate(0,0) rotate(-14deg);opacity:1}92%,100%{transform:translate(190px,100px) rotate(0deg);opacity:0}}
+@keyframes drawB{0%,14%{transform:translate(160px,110px) scale(.7);opacity:0}28%,84%{transform:translate(0,0) scale(1);opacity:1}96%,100%{transform:translate(160px,110px) scale(.7);opacity:0}}
+@keyframes drawC{0%,22%{transform:translate(90px,100px) rotate(0deg);opacity:0}36%,87%{transform:translate(0,0) rotate(13deg);opacity:1}100%{transform:translate(90px,100px) rotate(0deg);opacity:0}}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes bar{0%,100%{transform:scaleY(.25)}35%{transform:scaleY(.95)}70%{transform:scaleY(.5)}}
+@keyframes gleam{0%,65%{opacity:0}78%{opacity:.65}100%{opacity:0}}
+.a{animation:drawA 7s ease-in-out infinite;transform-origin:750px 230px}.b{animation:drawB 7s ease-in-out infinite;transform-origin:780px 240px}.c{animation:drawC 7s ease-in-out infinite;transform-origin:820px 230px}.pulse{animation:pulse 1.6s ease-in-out infinite}.bar{animation:bar 1.1s ease-in-out infinite;transform-box:fill-box;transform-origin:center bottom}.glow{animation:gleam 7s ease-in-out infinite}
+</style></defs>
+<rect width="1100" height="410" rx="8" fill="url(#bg)"/><rect width="1100" height="410" fill="url(#dots)"/>
+<rect x="8" y="8" width="1084" height="394" rx="4" fill="none" stroke="#bd8d43" stroke-width="2"/><path d="M22 66H1078M22 356H1078" stroke="#ad8248" opacity=".6"/>
+<g font-family="monospace" fill="#d5ad6b"><text x="36" y="43" font-size="17" letter-spacing="3">DECK DRAW // LIVE DEV STATUS</text><text x="1057" y="43" font-size="14" text-anchor="end">CARD 04 / 05</text></g>
+<text x="45" y="118" font-family="Georgia,serif" font-size="43" fill="url(#gold)" font-weight="bold">THE CODE DUELIST</text>
+<text x="47" y="151" font-family="monospace" font-size="15" fill="#e3d9c6">JONAS DZELME  /  FULL STACK DEVELOPER</text>
+<g font-family="monospace" font-size="17" fill="#f0dfb6">
+<text x="48" y="204">ATK  9000  /  BUILD &amp; CREATE</text>
+<text x="48" y="244">DEF  8500  /  TEST &amp; DEBUG</text>
+<text x="48" y="284">SKILL       REACT · TS · NODE · SQL</text>
+</g>
+<circle cx="55" cy="322" r="6" fill="#6edcb1" class="pulse"/><text x="72" y="327" font-family="monospace" font-size="15" fill="#6edcb1">BUILD STATUS: ACTIVE</text>
+<g class="a"><g transform="translate(665 115)"><rect width="160" height="215" rx="9" fill="#090a14" stroke="#c9964d" stroke-width="5"/><rect x="11" y="11" width="138" height="193" rx="4" fill="url(#card)" stroke="#8b6a40"/><ellipse cx="80" cy="106" rx="50" ry="70" fill="none" stroke="#d5a45b" stroke-width="6"/><ellipse cx="80" cy="106" rx="25" ry="47" fill="none" stroke="#d5a45b" stroke-width="3"/><text x="80" y="195" text-anchor="middle" font-size="11" fill="#f4e1ae" font-family="monospace">BACK-END</text></g></g>
+<g class="c"><g transform="translate(855 108)"><rect width="160" height="215" rx="9" fill="#090a14" stroke="#c9964d" stroke-width="5"/><rect x="11" y="11" width="138" height="193" rx="4" fill="url(#card)" stroke="#8b6a40"/><ellipse cx="80" cy="106" rx="50" ry="70" fill="none" stroke="#d5a45b" stroke-width="6"/><ellipse cx="80" cy="106" rx="25" ry="47" fill="none" stroke="#d5a45b" stroke-width="3"/><text x="80" y="195" text-anchor="middle" font-size="11" fill="#f4e1ae" font-family="monospace">FRONT-END</text></g></g>
+<g class="b"><g transform="translate(763 79)"><rect width="173" height="247" rx="7" fill="#1d1222" stroke="#edc376" stroke-width="6"/><rect x="9" y="9" width="155" height="229" fill="#d4b780"/><rect x="16" y="39" width="141" height="137" fill="#10152a" stroke="#765122" stroke-width="3"/><path d="M40 137 69 93 91 120 117 73 143 137Z" fill="#7d633d" opacity=".75"/><circle cx="90" cy="89" r="24" fill="none" stroke="#f3d28a" stroke-width="3"/><path d="M90 57V121M58 89H122" stroke="#f3d28a" stroke-width="2"/><text x="86" y="29" font-family="Georgia,serif" font-size="13" fill="#171223" text-anchor="middle" font-weight="bold">CODE DUELIST</text><text x="85" y="197" text-anchor="middle" font-family="monospace" font-size="12" fill="#1c1724">★★★★★★★★</text><text x="85" y="217" text-anchor="middle" font-family="monospace" font-size="11" fill="#1c1724">ATK 9000 / DEF 8500</text></g></g>
+<rect x="746" y="66" width="230" height="270" rx="8" fill="#fff1c2" opacity=".10" class="glow"/>
+<g fill="#cfa25a"><rect x="52" y="370" width="12" height="17" class="bar"/><rect x="72" y="370" width="12" height="17" class="bar" style="animation-delay:.2s"/><rect x="92" y="370" width="12" height="17" class="bar" style="animation-delay:.4s"/></g>
+<text x="123" y="383" font-family="monospace" font-size="13" fill="#cfb583">DRAW · BUILD · TEST · DEPLOY</text><text x="1050" y="383" font-family="monospace" font-size="13" fill="#cfb583" text-anchor="end">ORIGINAL CARD DRAW ANIMATION</text>
+</svg>

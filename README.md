@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jonas-dzelme/"><img src="https://img.shields.io/badge/LINKEDIN-10142F?style=for-the-badge&logo=linkedin&logoColor=E5C47E" alt="LinkedIn" /></a>
 <a href="mailto:JonasDzelme@gmail.com"><img src="https://img.shields.io/badge/EMAIL-10142F?style=for-the-badge&logo=gmail&logoColor=E5C47E" alt="Email" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=E5C47E&center=true&vCenter=true&width=780&lines=Select+a+project.+Explore+the+code.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL;Building%2C+testing%2C+debugging%2C+improving." alt="Animated developer introduction" />
+<p><strong>⚔ SELECT A CARD · EXPLORE THE CODE · ENTER THE ARENA ⚔</strong></p>
 
 </div>
 

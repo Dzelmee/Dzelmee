@@ -1,78 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:172554,100:6d28d9&text=JONAS%20DZELME&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20real-world%20solutions&descAlignY=59&animation=fadeIn" width="100%" alt="Jonas Dzelme banner" />
+<img src="./assets/forbidden-profile-banner.svg" width="100%" alt="Jonas Dzelme — The Developer's Deck" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=9D8CFF&center=true&vCenter=true&width=720&lines=Hello%2C+world!+I'm+Jonas+%F0%9F%91%8B;Front-end+%2B+Back-end+%2B+Problem+Solving;Turning+ideas+into+functional+products;Always+learning.+Always+building." alt="Animated typing introduction" /></a>
+<a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="https://img.shields.io/badge/⚔_ENTER_THE_PORTFOLIO-10142F?style=for-the-badge&labelColor=10142F&color=CDA251" alt="Open my interactive portfolio" /></a>
+<a href="https://www.linkedin.com/in/jonas-dzelme/"><img src="https://img.shields.io/badge/LINKEDIN-10142F?style=for-the-badge&logo=linkedin&logoColor=E5C47E" alt="LinkedIn" /></a>
+<a href="mailto:JonasDzelme@gmail.com"><img src="https://img.shields.io/badge/EMAIL-10142F?style=for-the-badge&logo=gmail&logoColor=E5C47E" alt="Email" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-dzelme-393a82267/)
-[![Email](https://img.shields.io/badge/Email-303030?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonasDzelme@gmail.com?subject=Hello%20Jonas%20-%20GitHub%20contact)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=E5C47E&center=true&vCenter=true&width=780&lines=Select+a+project.+Explore+the+code.;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL;Building%2C+testing%2C+debugging%2C+improving." alt="Animated developer introduction" />
 
 </div>
 
-## `> whoami`
+---
 
-I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I build responsive interfaces, connect applications to APIs, and work with back-end services and databases.
+### ✦ PLAYER PROFILE `01 / ABOUT ME`
 
-My focus is on creating useful, maintainable software while strengthening my skills through hands-on projects. I'm currently looking for **internship and junior opportunities** in software development, QA, and technical support.
+I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I enjoy turning ideas into interfaces and applications that people can actually use — from responsive front-ends to APIs and database integrations.
 
-- 🔭 **Building:** Full-stack applications with React, TypeScript, Node.js and PostgreSQL.
-- 🧠 **Learning:** Software architecture, testing, API design and DevOps fundamentals.
-- 🛠️ **Approach:** Build, test, debug, improve, document.
-- 🌍 **Location:** Rio de Janeiro, Brazil.
+I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm currently looking for **internship and junior opportunities** in software development, QA and related technical roles.
 
-## `> tech --stack`
+> My approach is simple: understand the problem, build something useful, test it, and keep improving.
+
+### ⚔ EQUIPPED SKILLS `02 / TECH STACK`
 
 <div align="center">
 
-**Front-end**
+**FRONT-END**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass&theme=dark" alt="Front-end stack" />
 
-**Back-end & Databases**
+**BACK-END & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark" alt="Back-end stack" />
 
-**Tools & Workflow**
+**TOOLS & WORKFLOW**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" alt="Development tools" />
 
 </div>
 
-## `> ls ./featured-projects`
+### ✦ FEATURED CARDS `03 / PROJECTS`
 
-| Project | What it does | Stack |
+| Project | What I built | Main technologies |
 | :--- | :--- | :--- |
-| **[StageManager](https://github.com/Dzelmee?tab=repositories&q=StageManager)** | Band management platform for shows, setlists, repertoire and production workflows. | React · TypeScript · Node.js · Prisma · PostgreSQL |
-| **[Suporte Central](https://github.com/Dzelmee?tab=repositories&q=suporte-central)** | Technical support project focused on service workflows and usability. | See repository |
-| **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | Personal finance project with a product-oriented interface. | See repository |
-| **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | Responsive web project for a fitness-oriented experience. | HTML · CSS · JavaScript |
+| **[⚔ Forbidden Portfolio](https://portfolio-jonas-dzelme.vercel.app/)** | My interactive portfolio, built as a retro card-dueling experience with battles, fusions and project cards. [Source code](https://github.com/Dzelmee/portfolio-jonas-dzelme). | React · TypeScript · Three.js · Vite |
+| **[StageManager](https://github.com/Dzelmee?tab=repositories&q=StageManager)** | A band management app for shows, setlists and repertoire, connecting the interface to APIs and relational data. | React · TypeScript · Node.js · Prisma · PostgreSQL |
+| **[ClientFlow CRM](https://github.com/Dzelmee/ClientFlow-CRM)** | A CRM interface focused on organizing customers and sales workflows. | Web development |
+| **[Suporte Central](https://github.com/Dzelmee?tab=repositories&q=suporte-central)** | A technical support project focused on ticket workflows and usability. | Web development |
+| **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | A personal finance interface with a product-oriented layout. | Web development |
+| **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | A responsive fitness-oriented website. | HTML · CSS · JavaScript |
 
-> Explore the repositories for source code, implementation details and live demos when available.
-
-## `> code --pulse`
+### ◈ CODE PULSE `04 / CURRENT ACTIVITY`
 
 <div align="center">
 
-[![Jonas Dzelme — Code Pulse animado](code-pulse-premium-60fps.gif)](https://portfolio-jonas-dzelme.vercel.app/)
+[![My animated Code Pulse](code-pulse-premium-60fps.gif)](https://portfolio-jonas-dzelme.vercel.app/)
 
-[![Animated Code Pulse status](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1600&pause=450&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%E2%97%8F+CODE+PULSE+%2F%2F+SYSTEM+ONLINE;%E2%9A%A1+BUILDING+REAL-WORLD+SOLUTIONS;%3E+REACT+%7C+TYPESCRIPT+%7C+NODE.JS;%3E+EXPLORE+MY+PORTFOLIO+%E2%86%92)](https://portfolio-jonas-dzelme.vercel.app/)
+**BUILD · TEST · DEBUG · IMPROVE**
 
-**Building interfaces. Connecting systems. Turning ideas into real projects.**
-
-[![ENTER PORTFOLIO](https://img.shields.io/badge/ENTER_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jonas-dzelme.vercel.app/)
-[![EXPLORE PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-172554?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories)
-[![CLIENTFLOW CRM](https://img.shields.io/badge/CLIENTFLOW_CRM-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee/ClientFlow-CRM)
-[![STAGEMANAGER](https://img.shields.io/badge/STAGEMANAGER-4338CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzelmee?tab=repositories&q=StageManager)
+[![EXPLORE MY PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-10142F?style=for-the-badge&logo=github&logoColor=E5C47E)](https://github.com/Dzelmee?tab=repositories)
+[![PLAY FORBIDDEN DUEL](https://img.shields.io/badge/PLAY_FORBIDDEN_DUEL-10142F?style=for-the-badge&logo=vercel&logoColor=E5C47E)](https://portfolio-jonas-dzelme.vercel.app/)
 
 </div>
 
-## `> connect --with-me`
+### ✉ CONTACT `05 / NEXT QUEST`
 
-I'm open to connecting with developers, exchanging ideas, collaborating on projects and exploring new opportunities.
-
-**Let's build something meaningful.** Reach me through [LinkedIn](https://www.linkedin.com/in/jonas-dzelme-393a82267/) or **[send me an email](mailto:JonasDzelme@gmail.com?subject=Hello%20Jonas%20-%20GitHub%20contact)**. If your browser does not open an email app, write directly to **JonasDzelme@gmail.com**.
+I'm open to conversations about software development, projects and junior opportunities. You can find me on [LinkedIn](https://www.linkedin.com/in/jonas-dzelme/) or reach me at **[JonasDzelme@gmail.com](mailto:JonasDzelme@gmail.com)**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:09090f,45:172554,100:6d28d9" width="100%" alt="Footer wave" />
+
+<sub>THE DEVELOPER'S DECK · JONAS DZELME</sub>
+
 </div>

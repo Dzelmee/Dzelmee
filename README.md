@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/duel-arena-banner.svg" width="100%" alt="Jonas Dzelme — The Developer's Deck" />
+<img src="./assets/duel-arena-banner.jpg" width="100%" alt="Jonas Dzelme — The Developer's Deck" />
 
 <a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="https://img.shields.io/badge/⚔_ENTER_THE_PORTFOLIO-10142F?style=for-the-badge&labelColor=10142F&color=CDA251" alt="Open my interactive portfolio" /></a>
 <a href="https://www.linkedin.com/in/jonas-dzelme/"><img src="https://img.shields.io/badge/LINKEDIN-10142F?style=for-the-badge&logo=linkedin&logoColor=E5C47E" alt="LinkedIn" /></a>

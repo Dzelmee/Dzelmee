@@ -53,14 +53,14 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 | **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | A personal finance interface with a product-oriented layout. | Web development |
 | **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | A responsive fitness-oriented website. | HTML · CSS · JavaScript |
 
-### ◈ CODE SANCTUARY `04 / DEVELOPMENT CYCLE`
+### 🃏 DRAW PHASE `04 / THE CODE DUELIST`
 
 <div align="center">
 
-[![Code Sanctuary — The Developer's Deck](./assets/code-sanctuary.svg)](https://portfolio-jonas-dzelme.vercel.app/)
+[![Animated original card draw — The Code Duelist](./assets/code-duelist-draw.svg)](https://portfolio-jonas-dzelme.vercel.app/)
 
-**BUILD · TEST · DEBUG · IMPROVE**  
-*Each project is another card in the deck.*
+**DRAW A CARD · BUILD A FEATURE · TEST THE RESULT**  
+*An original animated card-draw scene, inspired by classic dueling games.*
 
 [![EXPLORE MY PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-10142F?style=for-the-badge&logo=github&logoColor=E5C47E)](https://github.com/Dzelmee?tab=repositories)
 [![PLAY FORBIDDEN DUEL](https://img.shields.io/badge/PLAY_FORBIDDEN_DUEL-10142F?style=for-the-badge&logo=vercel&logoColor=E5C47E)](https://portfolio-jonas-dzelme.vercel.app/)

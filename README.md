@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center"><img src="./assets/character-sheet.svg" width="100%" alt="Character sheet — Jonas Dzelme" /></div>
+<div align="center"><img src="./assets/character-lvl99.svg" width="100%" alt="Jonas Dzelme level 99 character sheet" /></div>
 
 ### ✦ CHARACTER PROFILE `01 / ABOUT ME`
 
@@ -42,16 +42,18 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 </div>
 
-### ✦ CARD COLLECTION `03 / PROJECTS`
+### ✦ MY PROJECT DECK `03 / SIX CARDS`
 
-| Project | What I built | Main technologies |
-| :--- | :--- | :--- |
-| **[⚔ Forbidden Portfolio](https://portfolio-jonas-dzelme.vercel.app/)** | My interactive portfolio, built as a retro card-dueling experience with battles, fusions and project cards. [Source code](https://github.com/Dzelmee/portfolio-jonas-dzelme). | React · TypeScript · Three.js · Vite |
-| **[StageManager](https://github.com/Dzelmee?tab=repositories&q=StageManager)** | A band management app for shows, setlists and repertoire, connecting the interface to APIs and relational data. | React · TypeScript · Node.js · Prisma · PostgreSQL |
-| **[ClientFlow CRM](https://github.com/Dzelmee/ClientFlow-CRM)** | A CRM interface focused on organizing customers and sales workflows. | Web development |
-| **[Suporte Central](https://github.com/Dzelmee?tab=repositories&q=suporte-central)** | A technical support project focused on ticket workflows and usability. | Web development |
-| **[Bolso Claro](https://github.com/Dzelmee?tab=repositories&q=bolso-claro)** | A personal finance interface with a product-oriented layout. | Web development |
-| **[Projeto Academia](https://github.com/Dzelmee/projeto-academia)** | A responsive fitness-oriented website. | HTML · CSS · JavaScript |
+<div align="center">
+
+<table>
+<tr><td width="33%" align="center"><a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="./assets/deck-forbidden.svg" width="100%" alt="Forbidden Portfolio project card" /></a><br/><a href="https://portfolio-jonas-dzelme.vercel.app/"><b>Forbidden Portfolio</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><img src="./assets/deck-stage.svg" width="100%" alt="StageManager project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><b>StageManager</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee/ClientFlow-CRM"><img src="./assets/deck-crm.svg" width="100%" alt="ClientFlow CRM project card" /></a><br/><a href="https://github.com/Dzelmee/ClientFlow-CRM"><b>ClientFlow CRM</b></a></td></tr>
+<tr><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><img src="./assets/deck-support.svg" width="100%" alt="Suporte Central project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><b>Suporte Central</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><img src="./assets/deck-finance.svg" width="100%" alt="Bolso Claro project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><b>Bolso Claro</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee/projeto-academia"><img src="./assets/deck-gym.svg" width="100%" alt="Projeto Academia project card" /></a><br/><a href="https://github.com/Dzelmee/projeto-academia"><b>Projeto Academia</b></a></td></tr>
+</table>
+
+<sub>Choose a card to explore the project. Each illustration links to its repository or live experience.</sub>
+
+</div>
 
 ### 🃏 DRAW PHASE `04 / THE CODE DUELIST`
 

@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jonas-dzelme/"><img src="https://img.shields.io/badge/LINKEDIN-10142F?style=for-the-badge&logo=linkedin&logoColor=E5C47E" alt="LinkedIn" /></a>
 <a href="mailto:JonasDzelme@gmail.com"><img src="https://img.shields.io/badge/EMAIL-10142F?style=for-the-badge&logo=gmail&logoColor=E5C47E" alt="Email" /></a>
 
-<p><strong>⚔ SELECT A CARD · EXPLORE THE CODE · ENTER THE ARENA ⚔</strong></p>
+<p>Projetos, código e um pouco da estética dos jogos de cartas com que cresci.</p>
 
 </div>
 
@@ -20,11 +20,11 @@ I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I enjoy t
 
 I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm currently looking for **internship and junior opportunities** in software development, QA and related technical roles.
 
-> My approach is simple: understand the problem, build something useful, test it, and keep improving.
+> I like figuring out how things work, especially when something breaks between the interface, API and database.
 
 ### ⚔ MY DECK `02 / TECH STACK`
 
-> **DECK CONFIGURATION** — The tools I use to build interfaces, connect services and work with data.
+These are the technologies I use most often in my projects.
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 <tr><td align="center" width="33%"><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><img src="./assets/project-support.jpg" width="100%" alt="Suporte Central — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><b>Suporte Central</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><img src="./assets/project-finance.jpg" width="100%" alt="Bolso Claro — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><b>Bolso Claro</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee/projeto-academia"><img src="./assets/project-gym.jpg" width="100%" alt="Projeto Academia — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee/projeto-academia"><b>Projeto Academia</b></a></td></tr>
 </table>
 
-<sub>Choose a card to explore the project.</sub>
+<sub>Click a card to open the project.</sub>
 
 </div>
 
@@ -60,10 +60,10 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 <div align="center">
 
-<img src="./assets/code-duelist-075x.gif" alt="The Code Duelist — animação ilustrada original em loop" width="720" />
+<img src="./assets/code-duelist-original.svg" alt="Code Duelist — animação das cartas e indicadores" width="720" />
 
-**DRAW A CARD · BUILD A FEATURE · TEST THE RESULT**  
-*An original animated card-draw scene, inspired by classic dueling games.*
+**BUILD · TEST · FIX · REPEAT**  
+*This section brings together my interest in card games and software development.*
 
 [![EXPLORE MY PROJECTS](https://img.shields.io/badge/EXPLORE_PROJECTS-10142F?style=for-the-badge&logo=github&logoColor=E5C47E)](https://github.com/Dzelmee?tab=repositories)
 [![PLAY FORBIDDEN DUEL](https://img.shields.io/badge/PLAY_FORBIDDEN_DUEL-10142F?style=for-the-badge&logo=vercel&logoColor=E5C47E)](https://portfolio-jonas-dzelme.vercel.app/)

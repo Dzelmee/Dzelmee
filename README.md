@@ -60,7 +60,7 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 <div align="center">
 
-[![Animated original card draw — The Code Duelist](./assets/code-duelist-075x.gif)](https://portfolio-jonas-dzelme.vercel.app/)
+<img src="./assets/code-duelist-075x.gif" alt="The Code Duelist — animação em loop de compra de cartas" width="720" />
 
 **DRAW A CARD · BUILD A FEATURE · TEST THE RESULT**  
 *An original animated card-draw scene, inspired by classic dueling games.*

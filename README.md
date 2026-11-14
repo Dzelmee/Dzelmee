@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center"><img src="./assets/character-lvl99.svg" width="100%" alt="Jonas Dzelme level 99 character sheet" /></div>
+<div align="center"><img src="./assets/duelist-lvl99.jpg" width="100%" alt="Jonas Dzelme level 99 character sheet" /></div>
 
 ### ✦ CHARACTER PROFILE `01 / ABOUT ME`
 
@@ -47,13 +47,14 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 <div align="center">
 
 <table>
-<tr><td width="33%" align="center"><a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="./assets/deck-forbidden.svg" width="100%" alt="Forbidden Portfolio project card" /></a><br/><a href="https://portfolio-jonas-dzelme.vercel.app/"><b>Forbidden Portfolio</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><img src="./assets/deck-stage.svg" width="100%" alt="StageManager project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><b>StageManager</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee/ClientFlow-CRM"><img src="./assets/deck-crm.svg" width="100%" alt="ClientFlow CRM project card" /></a><br/><a href="https://github.com/Dzelmee/ClientFlow-CRM"><b>ClientFlow CRM</b></a></td></tr>
-<tr><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><img src="./assets/deck-support.svg" width="100%" alt="Suporte Central project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><b>Suporte Central</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><img src="./assets/deck-finance.svg" width="100%" alt="Bolso Claro project card" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><b>Bolso Claro</b></a></td><td width="33%" align="center"><a href="https://github.com/Dzelmee/projeto-academia"><img src="./assets/deck-gym.svg" width="100%" alt="Projeto Academia project card" /></a><br/><a href="https://github.com/Dzelmee/projeto-academia"><b>Projeto Academia</b></a></td></tr>
+<tr><td align="center" width="33%"><a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="./assets/project-forbidden.jpg" width="100%" alt="Forbidden Portfolio — carta ilustrada" /></a><br/><a href="https://portfolio-jonas-dzelme.vercel.app/"><b>Forbidden Portfolio</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><img src="./assets/project-stage.jpg" width="100%" alt="StageManager — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=StageManager"><b>StageManager</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee/ClientFlow-CRM"><img src="./assets/project-crm.jpg" width="100%" alt="ClientFlow CRM — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee/ClientFlow-CRM"><b>ClientFlow CRM</b></a></td></tr>
+<tr><td align="center" width="33%"><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><img src="./assets/project-support.jpg" width="100%" alt="Suporte Central — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=suporte-central"><b>Suporte Central</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><img src="./assets/project-finance.jpg" width="100%" alt="Bolso Claro — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee?tab=repositories&q=bolso-claro"><b>Bolso Claro</b></a></td><td align="center" width="33%"><a href="https://github.com/Dzelmee/projeto-academia"><img src="./assets/project-gym.jpg" width="100%" alt="Projeto Academia — carta ilustrada" /></a><br/><a href="https://github.com/Dzelmee/projeto-academia"><b>Projeto Academia</b></a></td></tr>
 </table>
 
-<sub>Choose a card to explore the project. Each illustration links to its repository or live experience.</sub>
+<sub>Choose a card to explore the project.</sub>
 
 </div>
+
 
 ### 🃏 DRAW PHASE `04 / THE CODE DUELIST`
 

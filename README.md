@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/forbidden-profile-banner.svg" width="100%" alt="Jonas Dzelme — The Developer's Deck" />
+<img src="./assets/duel-arena-banner.svg" width="100%" alt="Jonas Dzelme — The Developer's Deck" />
 
 <a href="https://portfolio-jonas-dzelme.vercel.app/"><img src="https://img.shields.io/badge/⚔_ENTER_THE_PORTFOLIO-10142F?style=for-the-badge&labelColor=10142F&color=CDA251" alt="Open my interactive portfolio" /></a>
 <a href="https://www.linkedin.com/in/jonas-dzelme/"><img src="https://img.shields.io/badge/LINKEDIN-10142F?style=for-the-badge&logo=linkedin&logoColor=E5C47E" alt="LinkedIn" /></a>
@@ -12,9 +12,9 @@
 
 ---
 
-<div align="center"><img src="./assets/duelist-profile.svg" width="100%" alt="Duelist profile card — Jonas Dzelme" /></div>
+<div align="center"><img src="./assets/character-sheet.svg" width="100%" alt="Character sheet — Jonas Dzelme" /></div>
 
-### ✦ PLAYER PROFILE `01 / ABOUT ME`
+### ✦ CHARACTER PROFILE `01 / ABOUT ME`
 
 I'm **Jonas Dzelme**, a developer based in **Rio de Janeiro, Brazil**. I enjoy turning ideas into interfaces and applications that people can actually use — from responsive front-ends to APIs and database integrations.
 
@@ -22,7 +22,7 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 > My approach is simple: understand the problem, build something useful, test it, and keep improving.
 
-### ⚔ EQUIPPED SKILLS `02 / TECH STACK`
+### ⚔ MY DECK `02 / TECH STACK`
 
 > **DECK CONFIGURATION** — The tools I use to build interfaces, connect services and work with data.
 
@@ -42,7 +42,7 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 </div>
 
-### ✦ FEATURED CARDS `03 / PROJECTS`
+### ✦ CARD COLLECTION `03 / PROJECTS`
 
 | Project | What I built | Main technologies |
 | :--- | :--- | :--- |

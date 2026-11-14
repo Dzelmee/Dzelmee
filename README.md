@@ -60,7 +60,7 @@ I work primarily with **React, TypeScript, Node.js and PostgreSQL**. I'm current
 
 <div align="center">
 
-<img src="./assets/code-duelist-loop.svg" alt="The Code Duelist — cartas animadas em loop e barras de atividade" width="100%" />
+<img src="./assets/code-duelist-075x.gif" alt="The Code Duelist — animação ilustrada original em loop" width="720" />
 
 **DRAW A CARD · BUILD A FEATURE · TEST THE RESULT**  
 *An original animated card-draw scene, inspired by classic dueling games.*
